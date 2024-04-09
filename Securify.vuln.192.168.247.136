@@ -1,0 +1,288 @@
+Host - Checks for existence of IPV6 address.
+------------------------
+
+;; communications error to 192.168.247.2#53: timed out
+;; communications error to 192.168.247.2#53: timed out
+;; no servers could be reached
+
+
+
+Drupal Checker - Checks for Drupal Installation.
+------------------------
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://pur
+     0K .......                                               100%  672M=0s
+
+2024-04-01 23:34:37 (672 MB/s) - ‘/tmp/securify_temp_drp_check’ saved [7501/7501]
+
+www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://192.168.247.136/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>User account | Drupal Site</title>
+  <style type="text/css" media="all">@import url("http://192.168.247.136/modules/system/system.base.css?pn6csl");
+@import url("http://192.168.247.136/modules/system/system.menus.css?pn6csl");
+@import url("http://192.168.247.136/modules/system/system.messages.css?pn6csl");
+@import url("http://192.168.247.136/modules/system/system.theme.css?pn6csl");</style>
+<style type="text/css" media="all">@import url("http://192.168.247.136/modules/field/theme/field.css?pn6csl");
+@import url("http://192.168.247.136/modules/node/node.css?pn6csl");
+@import url("http://192.168.247.136/modules/search/search.css?pn6csl");
+@import url("http://192.168.247.136/modules/user/user.css?pn6csl");
+@import url("http://192.168.247.136/sites/all/modules/views/css/views.css?pn6csl");</style>
+<style type="text/css" media="all">@import url("http://192.168.247.136/sites/all/modules/ctools/css/ctools.css?pn6csl");</style>
+<style type="text/css" media="all">@import url("http://192.168.247.136/themes/bartik/css/layout.css?pn6csl");
+@import url("http://192.168.247.136/themes/bartik/css/style.css?pn6csl");
+@import url("http://192.168.247.136/themes/bartik/css/colors.css?pn6csl");</style>
+<style type="text/css" media="print">@import url("http://192.168.247.136/themes/bartik/css/print.css?pn6csl");</style>
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://192.168.247.136/themes/bartik/css/ie.css?pn6csl" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="http://192.168.247.136/themes/bartik/css/ie6.css?pn6csl" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://192.168.247.136/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://192.168.247.136/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://192.168.247.136/misc/drupal.js?pn6csl"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bartik","theme_token":"2ziCIOK6c5i3CEoIdcE_0Gg40fwkcnh-9dTF8k0XA3Q","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"themes\/bartik\/css\/colors.css":1,"themes\/bartik\/css\/print.css":1,"themes\/bartik\/css\/ie.css":1,"themes\/bartik\/css\/ie6.css":1}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-user" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper"><div id="page">
+
+  <div id="header" class="without-secondary-menu"><div class="section clearfix">
+
+          <a href="/" title="Home" rel="home" id="logo">
+        <img src="http://192.168.247.136/themes/bartik/logo.png" alt="Home" />
+      </a>
+    
+          <div id="name-and-slogan">
+
+                              <div id="site-name">
+              <strong>
+                <a href="/" title="Home" rel="home"><span>Drupal Site</span></a>
+              </strong>
+            </div>
+                  
+        
+      </div> <!-- /#name-and-slogan -->
+    
+    
+          <div id="main-menu" class="navigation">
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu-links" class="links clearfix"><li class="menu-218 first last"><a href="/">Home</a></li>
+</ul>      </div> <!-- /#main-menu -->
+    
+    
+  </div></div> <!-- /.section, /#header -->
+
+  
+  
+  <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
+
+          <div id="breadcrumb"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a></div></div>
+    
+    
+    <div id="content" class="column"><div class="section">
+            <a id="main-content"></a>
+                    <h1 class="title" id="page-title">
+          User account        </h1>
+                          <div class="tabs">
+          <h2 class="element-invisible">Primary tabs</h2><ul class="tabs primary"><li><a href="/user/register">Create new account</a></li>
+<li class="active"><a href="/user" class="active">Log in<span class="element-invisible">(active tab)</span></a></li>
+<li><a href="/user/password">Request new password</a></li>
+</ul>        </div>
+                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <form action="/user" method="post" id="user-login" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="60" maxlength="60" class="form-text required" />
+<div class="description">Enter your Drupal Site username.</div>
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="60" maxlength="128" class="form-text required" />
+<div class="description">Enter the password that accompanies your username.</div>
+</div>
+<input type="hidden" name="form_build_id" value="form-LalM5-wBNAwkwNlDI7PgZaizBIl-gyZAX1FzpxWpXjQ" />
+<input type="hidden" name="form_id" value="user_login" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+  </div>
+      
+    </div></div> <!-- /.section, /#content -->
+
+    
+  </div></div> <!-- /#main, /#main-wrapper -->
+
+  
+  <div id="footer-wrapper"><div class="section">
+
+    
+          <div id="footer" class="clearfix">
+          <div class="region region-footer">
+    <div id="block-system-powered-by" class="block block-system">
+
+    
+  <div class="content">
+    <span>Powered by <a href="http://drupal.org">Drupal</a></span>  </div>
+</div>
+  </div>
+      </div> <!-- /#footer -->
+    
+  </div></div> <!-- /.section, /#footer-wrapper -->
+
+</div></div> <!-- /#page, /#page-wrapper -->
+  </body>
+</html>
+
+
+Nmap - Fast Scan [Only Few Port Checks]
+------------------------
+
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-04-01 23:34 AKDT
+Nmap scan report for 192.168.247.136
+Host is up (0.00047s latency).
+Not shown: 97 closed tcp ports (conn-refused)
+PORT    STATE SERVICE
+22/tcp  open  ssh
+80/tcp  open  http
+111/tcp open  rpcbind
+
+Nmap done: 1 IP address (1 host up) scanned in 13.04 seconds
+
+
+Fierce Subdomains Bruter - Brute Forces Subdomain Discovery.
+------------------------
+
+NS: failure
+SOA: failure
+Failed to lookup NS/SOA, Domain does not exist
+
+
+DMitry - Passively Harvests Emails from the Domain.
+------------------------
+
+Deepmagic Information Gathering Tool
+"There be some deep magic going on"
+
+ERROR: Unable to locate Host Name for 192.168.247.136
+Continuing with limited modules
+HostIP:192.168.247.136
+HostName:
+
+All scans completed, exiting
+
+
+DMitry - Passively Harvests Subdomains from the Domain.
+------------------------
+
+Deepmagic Information Gathering Tool
+"There be some deep magic going on"
+
+ERROR: Unable to locate Host Name for 192.168.247.136
+Continuing with limited modules
+HostIP:192.168.247.136
+HostName:
+
+All scans completed, exiting
+
+
+Nikto - Checks the Domain Headers.
+------------------------
+
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          192.168.247.136
++ Target Hostname:    192.168.247.136
++ Target Port:        80
++ Start Time:         2024-04-01 23:49:33 (GMT-8)
+---------------------------------------------------------------------------
++ Server: Apache/2.2.22 (Debian)
++ /: Retrieved x-powered-by header: PHP/5.4.45-0+deb7u14.
++ /: The anti-clickjacking X-Frame-Options header is not present. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
++ /: Drupal 7 was identified via the x-generator header. See: https://www.drupal.org/project/remove_http_headers
++ /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
++ 266 requests: 0 error(s) and 4 item(s) reported on remote host
++ End Time:           2024-04-01 23:49:49 (GMT-8) (16 seconds)
+---------------------------------------------------------------------------
++ 1 host(s) tested
+
+
+Nikto - Checks if Server is Outdated.
+------------------------
+
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          192.168.247.136
++ Target Hostname:    192.168.247.136
++ Target Port:        80
++ Start Time:         2024-04-01 23:50:21 (GMT-8)
+---------------------------------------------------------------------------
++ Server: Apache/2.2.22 (Debian)
++ Apache/2.2.22 appears to be outdated (current is at least Apache/2.4.54). Apache 2.2.34 is the EOL for the 2.x branch.
++ 239 requests: 0 error(s) and 1 item(s) reported on remote host
++ End Time:           2024-04-01 23:50:36 (GMT-8) (15 seconds)
+---------------------------------------------------------------------------
++ 1 host(s) tested
+
+
+Nikto - Checks for HTTP Options on the Domain.
+------------------------
+
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          192.168.247.136
++ Target Hostname:    192.168.247.136
++ Target Port:        80
++ Start Time:         2024-04-01 23:50:36 (GMT-8)
+---------------------------------------------------------------------------
++ Server: Apache/2.2.22 (Debian)
++ /: Web Server returns a valid response with junk HTTP methods which may cause false positives.
++ /: DEBUG HTTP verb may show server debugging information. See: https://docs.microsoft.com/en-us/visualstudio/debugger/how-to-enable-debugging-for-aspnet-applications?view=vs-2017
++ 248 requests: 0 error(s) and 2 item(s) reported on remote host
++ End Time:           2024-04-01 23:50:51 (GMT-8) (15 seconds)
+---------------------------------------------------------------------------
++ 1 host(s) tested
+
+
+Nmap - Performs a Full TCP Port Scan
+------------------------
+
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-04-01 23:53 AKDT
+Nmap scan report for 192.168.247.136
+Host is up (0.0037s latency).
+Not shown: 65531 closed tcp ports (conn-refused)
+PORT      STATE SERVICE
+22/tcp    open  ssh
+80/tcp    open  http
+111/tcp   open  rpcbind
+53328/tcp open  unknown
+
+Nmap done: 1 IP address (1 host up) scanned in 16.03 seconds
+
+
+WhatWeb - Checks for X-XSS Protection Header
+------------------------
+
+[1m[34mhttp://192.168.247.136[0m [200 OK] [1mApache[0m[[1m[32m2.2.22[0m], [1mContent-Language[0m[[0m[22men[0m], [1mCountry[0m[[0m[22mRESERVED[0m][[1m[31mZZ[0m], [1mDrupal[0m, [1mHTTPServer[0m[[1m[31mDebian Linux[0m][[1m[36mApache/2.2.22 (Debian)[0m], [1mIP[0m[[0m[22m192.168.247.136[0m], [1mJQuery[0m, [1mMetaGenerator[0m[[0m[22mDrupal 7 (http://drupal.org)[0m], [1mPHP[0m[[1m[32m5.4.45-0+deb7u14[0m], [1mPasswordField[0m[[0m[22mpass[0m], [1mScript[0m[[0m[22mtext/javascript[0m], [1mTitle[0m[[1m[33mWelcome to Drupal Site | Drupal Site[0m], [1mUncommonHeaders[0m[[0m[22mx-generator[0m], [1mX-Powered-By[0m[[0m[22mPHP/5.4.45-0+deb7u14[0m]
+
+
